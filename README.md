@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm [**Abdul Rehman**](https://rehman-nry.netlify.app/)</h1>
+<h1>Hi 👋, I'm Abdul Rehman</h1>
 <h3>A Passionate Full-Stack Developer</h3>
 
 <p>
@@ -19,6 +19,9 @@
 ## ⚡️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,python,html,css,bootstrap,cpp,tailwind,git,github,php,py,nodejs)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,ts,cpp,php,py)](https://skillicons.dev)
 
 </div>
 
