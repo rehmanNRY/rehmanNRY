@@ -18,10 +18,7 @@
 
 ## ⚡️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,python,html,css,bootstrap,cpp,tailwind,git,github,php,py,nodejs)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,ts,cpp,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,ts,html,css,bootstrap,tailwind,cpp,php,py,github,laravel)](https://skillicons.dev)
 
 </div>
 
