@@ -1,41 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h1>Hi 👋, I'm [**Abdul Rehman**](https://rehman-nry.netlify.app/)</h1>
+<h3>A Passionate Full-Stack Developer</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/yourusername?label=Stars" alt="stars" />
 </p>
 
 ---
 
-### 🚀 About Me:
+## 🚀 About Me:
 - 🌱 I’m currently learning **AI/ML** and expanding my **backend development** skills.
 - 👨‍💻 I’ve built **social media platforms**, **e-commerce sites**, and **personal portfolios** using modern web technologies.
 - 🔭 I’m currently working on **[MERN stack projects]**.
 - 📫 Reach me at: **[rehman.contact9@gmail.com]**.
 
----
+<div align="center">
 
-### 💻 My Skills:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" />
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="NextJS" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" />
-</p>
+## ⚡️ Skills
 
----
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,python,html,css,bootstrap,cpp,tailwind,git,github,php,py,nodejs)](https://skillicons.dev)
 
-### 🌟 My Projects:
+</div>
+
+## 🌟 My Projects:
 - 🛒 **E-commerce Website** - A fully functional online shopping platform using MERN stack.
 - 📱 **Social Media Platform** - A feature-rich social network built with React and Node.js.
 - 💼 **Personal Portfolio** - My own developer portfolio showcasing my work and skills.
@@ -44,7 +31,10 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
+[![](https://komarev.com/ghpvc/?username=rehmanNRY&style=flat-square&color=C691E9)](https://github.com/rehmanNRY/github-profile-views-counter)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=radical" alt="rehmanNRY's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=radical" alt="rehmanNRY's GitHub streak" />
@@ -53,7 +43,7 @@
 
 ---
 
-### 🔗 Connect with Me:
+## 🔗 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rehman-nry)
 - 📸 [Instagram](https://www.instagram.com/rehman_nry/)
 - 🌐 [Personal Portfolio](https://rehman-nry.netlify.app/)
