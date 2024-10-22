@@ -71,7 +71,8 @@
 
 <hr />
 <!-- repositories -->
-<h2 align="center" style="font-size: 100px;">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
 <br />
 <!-- first row -->
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
@@ -92,6 +93,9 @@
     </picture>
   </a>
 </div>
+<br />
+<br />
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- repo 1 -->
   <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
@@ -110,7 +114,7 @@
     </picture>
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 ---
 
 ## 🔗 Connect with Me:
