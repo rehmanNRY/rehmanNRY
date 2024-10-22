@@ -113,6 +113,8 @@
   </a>
 </div>
 <br/>
+
+---
 ## 🔗 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rehman-nry)
 - 📸 [Instagram](https://www.instagram.com/rehman_nry/)
