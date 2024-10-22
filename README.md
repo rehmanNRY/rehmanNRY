@@ -36,11 +36,82 @@
 
 [![](https://komarev.com/ghpvc/?username=rehmanNRY&style=flat-square&color=C691E9)](https://github.com/rehmanNRY/github-profile-views-counter)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=radical" alt="rehmanNRY's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=radical" alt="rehmanNRY's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanNRY&layout=compact&theme=radical" alt="Top Languages" />
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" alt="rehmanNRY's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" alt="rehmanNRY's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rehmanNRY's contribution graph" />
+    </picture>
+  </a>
 </p>
+
+<hr />
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+<!-- repo 1 -->
+  <a align="right" href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - Social media app" />
+    </picture>
+  </a>
+<!-- repo 2 -->
+  <a align="left" href="https://github.com/rehmanNRY/ResearchHub" title="ResearchHub App">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - ResearchHub" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- second row -->
+<div width="100%" align="center">
+<!-- repo 3 -->
+  <a align="left" href="https://github.com/rehmanNRY/PicGenie" title="Pic Genie Ai SaaS app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=PicGenie&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=PicGenie&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=PicGenie&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - Pic Genie Ai SaaS app" />
+    </picture>
+  </a>
+<!-- repo 4 -->
+  <a align="right" href="https://github.com/rehmanNRY/BlogCove" title="BlogCove - Blogging site">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=BlogCove&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=BlogCove&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=BlogCove&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - BlogCove - Blogging site" />
+    </picture>
+  </a>
+</div>
 
 ---
 
