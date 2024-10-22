@@ -92,7 +92,24 @@
     </picture>
   </a>
 </div>
-
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <!-- repo 1 -->
+  <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - Social media app" />
+    </picture>
+  </a>
+  <!-- repo 2 -->
+  <a href="https://github.com/rehmanNRY/ResearchHub" title="ResearchHub App" style="flex: 1 1 45%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - ResearchHub" />
+    </picture>
+  </a>
+</div>
 <br/><br/><br/><br/><br/><br/>
 ---
 
