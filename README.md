@@ -1,3 +1,4 @@
+![Banner](./images/banner.png)
 <h1>Hi 👋, I'm Abdul Rehman</h1>
 <h3>A Passionate Full-Stack Developer</h3>
 
