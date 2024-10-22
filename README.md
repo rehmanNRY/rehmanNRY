@@ -71,7 +71,7 @@
 
 <hr />
 <!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center" style="font-size: 100px;">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <!-- first row -->
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
