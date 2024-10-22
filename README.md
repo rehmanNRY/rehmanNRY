@@ -94,6 +94,8 @@
   </a>
 </div>
 <br />
+<br />
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- repo 1 -->
   <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
