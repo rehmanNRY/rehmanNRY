@@ -94,8 +94,6 @@
   </a>
 </div>
 <br />
-<br />
-
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- repo 1 -->
   <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
@@ -114,9 +112,7 @@
     </picture>
   </a>
 </div>
-<br/><br/>
----
-
+<br/>
 ## 🔗 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rehman-nry)
 - 📸 [Instagram](https://www.instagram.com/rehman_nry/)
