@@ -74,7 +74,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <!-- first row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- repo 1 -->
   <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
     <picture>
