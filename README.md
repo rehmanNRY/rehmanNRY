@@ -119,9 +119,14 @@
 <br />
 <br />
 <br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 ---
-## 🔗 Connect with Me:
+<h4 align="center">
+Connect with Me:
+</h4>
 - 💼 [LinkedIn](https://www.linkedin.com/in/rehman-nry)
 - 📸 [Instagram](https://www.instagram.com/rehman_nry/)
 - 🌐 [Personal Portfolio](https://rehman-nry.netlify.app/)
