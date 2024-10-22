@@ -93,8 +93,8 @@
     </picture>
   </a>
 </div>
-<br />
-<br />
+<br /><br /><br /><br /><br /><br />
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <!-- repo 1 -->
@@ -114,12 +114,7 @@
     </picture>
   </a>
 </div>
-<br/>
-<br />
-<br />
-<br />
-<br />
-<br /><br /><br /><br /><br /><br />
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 
