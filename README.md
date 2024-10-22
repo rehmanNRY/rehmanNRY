@@ -1,8 +1,8 @@
 ![Banner](./images/banner.png)
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h1>Hi 👋, I'm Abdul Rehman</h1>
+<h3>A Passionate Full-Stack Developer</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/yourusername?label=Stars" alt="stars" />
 </p>
@@ -37,53 +37,63 @@
 [![](https://komarev.com/ghpvc/?username=rehmanNRY&style=flat-square&color=C691E9)](https://github.com/rehmanNRY/github-profile-views-counter)
 
 <br />
-<p align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <!-- GitHub Streak Stats -->
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" />
-        <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" alt="Streak Stats" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanNRY&theme=default&border=61dafb" alt="rehmanNRY's streak stats" />
       </picture>
     </a>
-    <!-- GitHub Stats -->
+  <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" />
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rehmanNRY&show_icons=true&theme=default&border_color=61dafb" alt="rehmanNRY's github stats" />
       </picture>
     </a>
   </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanNRY&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rehmanNRY's contribution graph" />
+    </picture>
+  </a>
 </p>
 
----
-
-## 👨‍💻 Repositories
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <!-- Repo 1 -->
-  <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media App" style="width: 48%;">
+<hr />
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <!-- repo 1 -->
+  <a href="https://github.com/rehmanNRY/SocialMediaApp" title="Social Media app" style="flex: 1 1 45%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" alt="Social Media App Repo" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=SocialMediaApp&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - Social media app" />
     </picture>
   </a>
-
-  <!-- Repo 2 -->
-  <a href="https://github.com/rehmanNRY/ResearchHub" title="ResearchHub App" style="width: 48%;">
+  <!-- repo 2 -->
+  <a href="https://github.com/rehmanNRY/ResearchHub" title="ResearchHub App" style="flex: 1 1 45%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" alt="ResearchHub Repo" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rehmanNRY&repo=ResearchHub&theme=graywhite&border_radius=10" alt="rehmanNRY's repository stats - ResearchHub" />
     </picture>
   </a>
-
 </div>
 
+<br/><br/><br/><br/><br/><br/>
 ---
 
 ## 🔗 Connect with Me:
