@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 About Me:
-- 🌱 I’m currently learning **AI/ML** and expanding my **backend development** skills.
+- 🌱 I’m **AI/ML & Full stack engineer**.
 - 👨‍💻 I’ve built **social media platforms**, **e-commerce sites**, and **personal portfolios** using modern web technologies.
-- 🔭 I’m currently working on **[MERN stack projects]**.
-- 📫 Reach me at: **[rehman.contact9@gmail.com]**.
+- 🔭 I’m currently working on **MERN stack projects**.
+- 📫 Reach me at: **rehman.contact9@gmail.com**.
 
 <div align="center">
 
